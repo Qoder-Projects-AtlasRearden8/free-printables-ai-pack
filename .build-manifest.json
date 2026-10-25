@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "ai-prompt-cheat-sheets",
+    "title": "AI Prompt Cheat Sheets",
+    "number": "01",
+    "group": "ai",
+    "pdf": "01-ai-prompt-cheat-sheets.pdf",
+    "html": "print/ai-prompt-cheat-sheets.html",
+    "pages": 9
+  },
+  {
+    "slug": "beginner-ai-glossary",
+    "title": "Beginner AI Glossary",
+    "number": "02",
+    "group": "ai",
+    "pdf": "02-beginner-ai-glossary.pdf",
+    "html": "print/beginner-ai-glossary.html",
+    "pages": 7
+  },
+  {
+    "slug": "ai-privacy-checklist",
+    "title": "AI Privacy Checklist",
+    "number": "03",
+    "group": "ai",
+    "pdf": "03-ai-privacy-checklist.pdf",
+    "html": "print/ai-privacy-checklist.html",
+    "pages": 10
+  },
+  {
+    "slug": "ai-for-job-search",
+    "title": "AI for Job Search",
+    "number": "04",
+    "group": "ai",
+    "pdf": "04-ai-for-job-search.pdf",
+    "html": "print/ai-for-job-search.html",
+    "pages": 10
+  },
+  {
+    "slug": "ai-for-budgeting",
+    "title": "AI for Budgeting",
+    "number": "05",
+    "group": "ai",
+    "pdf": "05-ai-for-budgeting.pdf",
+    "html": "print/ai-for-budgeting.html",
+    "pages": 15
+  },
+  {
+    "slug": "7-day-ai-learning-challenge",
+    "title": "The 7-Day AI Learning Challenge",
+    "number": "06",
+    "group": "ai",
+    "pdf": "06-7-day-ai-learning-challenge.pdf",
+    "html": "print/7-day-ai-learning-challenge.html",
+    "pages": 12
+  },
+  {
+    "slug": "low-energy-weekly-reset",
+    "title": "The Low-Energy Weekly Reset",
+    "number": "07",
+    "group": "life",
+    "pdf": "07-low-energy-weekly-reset.pdf",
+    "html": "print/low-energy-weekly-reset.html",
+    "pages": 18
+  },
+  {
+    "slug": "paper-pile-triage-kit",
+    "title": "The Paper Pile Triage Kit",
+    "number": "08",
+    "group": "life",
+    "pdf": "08-paper-pile-triage-kit.pdf",
+    "html": "print/paper-pile-triage-kit.html",
+    "pages": 17
+  },
+  {
+    "slug": "bills-renewals-subscriptions",
+    "title": "Bills, Renewals & Subscriptions",
+    "number": "09",
+    "group": "life",
+    "pdf": "09-bills-renewals-subscriptions.pdf",
+    "html": "print/bills-renewals-subscriptions.html",
+    "pages": 19
+  },
+  {
+    "slug": "appointment-companion",
+    "title": "The Appointment Companion",
+    "number": "10",
+    "group": "life",
+    "pdf": "10-appointment-companion.pdf",
+    "html": "print/appointment-companion.html",
+    "pages": 18
+  },
+  {
+    "slug": "low-energy-meal-plan",
+    "title": "The Low-Energy Meal Plan",
+    "number": "11",
+    "group": "life",
+    "pdf": "11-low-energy-meal-plan.pdf",
+    "html": "print/low-energy-meal-plan.html",
+    "pages": 16
+  },
+  {
+    "slug": "household-command-center",
+    "title": "The Household Command Center",
+    "number": "12",
+    "group": "life",
+    "pdf": "12-household-command-center.pdf",
+    "html": "print/household-command-center.html",
+    "pages": 17
+  }
+]

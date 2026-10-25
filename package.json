@@ -1,0 +1,19 @@
+{
+  "name": "asdale-practical-life-pack",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Twelve free, print-ready AI and life-admin printables plus a static local-first gallery from Asdale Dynamics, LLC.",
+  "author": "Asdale Dynamics, LLC",
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "verify": "node tools/verify.mjs",
+    "test": "node tools/verify.mjs",
+    "serve": "python3 -m http.server 8080 --directory site",
+    "status": "node tools/verify.mjs --summary"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
